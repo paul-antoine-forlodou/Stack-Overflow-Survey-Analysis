@@ -109,15 +109,13 @@ Ces seuils permettent d'éviter les comparaisons reposant sur des effectifs trop
 
 ### 1. L'expérience professionnelle et la progression salariale
 
-<img width="1800" height="900" alt="graphique_1_carriere" src="https://github.com/user-attachments/assets/9354434e-996c-4d99-9127-800876fb6a09" />
-
 Ce graphique permet d'observer l'évolution du salaire médian entre les différentes étapes de carrière.
 
 Il met en évidence une progression particulièrement marquée entre le début et le milieu de carrière. L'expérience professionnelle apparaît ainsi comme une dimension importante dans les différences de rémunération.
 
-### 2. L'âge et les différences entre métiers
+<img width="1800" height="900" alt="graphique_1_carriere" src="https://github.com/user-attachments/assets/9354434e-996c-4d99-9127-800876fb6a09" />
 
-<img width="1800" height="900" alt="graphique_2_age" src="https://github.com/user-attachments/assets/83333eb4-ce0e-4efd-9df7-69df8cf2c15f" />
+### 2. L'âge et les différences entre métiers
 
 Cette visualisation croise les tranches d'âge et les familles de métiers.
 
@@ -125,15 +123,17 @@ Elle permet de comparer les rémunérations selon l'âge tout en tenant compte d
 
 Cette approche apporte une lecture plus détaillée des écarts de salaire et permet d'observer des tendances différentes selon les métiers.
 
-### 3. Le niveau de formation et la rémunération
+<img width="1800" height="900" alt="graphique_2_age" src="https://github.com/user-attachments/assets/83333eb4-ce0e-4efd-9df7-69df8cf2c15f" />
 
-<img width="1650" height="900" alt="graphique_3_formation" src="https://github.com/user-attachments/assets/41734370-4ccc-4e99-8541-7cba4b927d4f" />
+### 3. Le niveau de formation et la rémunération
 
 Ce graphique compare les salaires médians selon le niveau de formation.
 
 Il permet d'explorer les différences de rémunération entre les niveaux de diplôme et d'étudier la place de la formation dans les parcours professionnels.
 
 Le niveau de diplôme ne constitue toutefois pas, à lui seul, une explication des différences salariales.
+
+<img width="1650" height="900" alt="graphique_3_formation" src="https://github.com/user-attachments/assets/41734370-4ccc-4e99-8541-7cba4b927d4f" />
 
 ## Outils et compétences mobilisés
 
