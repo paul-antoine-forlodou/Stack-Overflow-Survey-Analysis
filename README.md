@@ -244,7 +244,3 @@ Plusieurs pistes pourraient approfondir cette analyse :
 - Étudier l'association entre usage de l'intelligence artificielle et niveau de salaire.
 - Construire un modèle de régression pour isoler statistiquement les effets des différentes variables.
 - Développer un tableau de bord interactif avec Streamlit.
-
----
-
-Projet réalisé avec Python, Pandas et Matplotlib.
