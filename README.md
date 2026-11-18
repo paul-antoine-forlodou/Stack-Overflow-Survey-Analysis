@@ -214,7 +214,6 @@ MIN_CATEGORIE = 150
 salaires-tech/
 ├── analyse.py
 ├── Data-precises.csv
-├── requirements.txt
 ├── README.md
 ├── graphique_1_carriere.png
 ├── graphique_2_age.png
