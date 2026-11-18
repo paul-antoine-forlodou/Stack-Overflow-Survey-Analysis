@@ -1,6 +1,3 @@
-# Stack-Overflow-Survey-Analysis
-Analyse des salaires dans la tech à partir d’une enquête internationale. Le projet étudie le salaire médian selon le métier, l’expérience, l’âge et le niveau de formation, avec nettoyage des données et visualisations.
-
 # Analyse des salaires dans la tech
 
 Lorsqu'on travaille avec des données salariales, l'objectif n'est pas seulement de calculer une moyenne ou une médiane, mais aussi de comprendre quels facteurs expliquent les différences de rémunération.
